@@ -1,5 +1,10 @@
 package com.study.oom;
 
+/**
+ * -Xss2M
+ * @author xiaojuan
+ *
+ */
 public class JavaVMStackOOM {
 
 	private void dontStop() {

@@ -1,5 +1,10 @@
 package com.study.oom;
 
+/**
+ * -Xss128k
+ * @author xiaojuan
+ *
+ */
 public class JavaVMStackSOF {
 
 	private int stackLength = 1;
